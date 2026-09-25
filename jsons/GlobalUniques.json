@@ -1,0 +1,18 @@
+{
+  "name": "Era Great People",
+  "uniques": [
+    "[+100]% Great Person generation [in all cities] <during the [Classical era]>",
+    "[+300]% Great Person generation [in all cities] <during the [Medieval era]>",
+    "[+700]% Great Person generation [in all cities] <during the [Renaissance era]>",
+    "[+1500]% Great Person generation [in all cities] <during the [Industrial era]>",
+    "[+3100]% Great Person generation [in all cities] <during the [Modern era]>",
+    "[+6300]% Great Person generation [in all cities] <during the [Atomic era]>",
+    "[+12700]% Great Person generation [in all cities] <during the [Information era]>",
+    "[+25500]% Great Person generation [in all cities] <during the [Future era]>"
+  ],
+  "civilopediaText": [
+    {
+      "text": "Each time the game enters a new era, Great Person generation is doubled relative to the Ancient era. Classical x2, Medieval x4, Renaissance x8, Industrial x16, Modern x32, Atomic x64, Information x128, Future x256."
+    }
+  ]
+}
